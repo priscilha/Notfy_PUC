@@ -1,10 +1,10 @@
 # Notfy
 
-`Análise e Desenvolvimento de Sistemas`
+`Curso:Análise e Desenvolvimento de Sistemas`
 
 `Projeto: Desenvolvimento de Aplicação Web Front-End`
 
-`1º Semestre 2021/1`
+`1º e 2º Semestres 2021`
 
 Notfy - é uma aplicação web voltada para a otimização do processo de notificações extrajudiciais cartorárias. O projeto contribuirá para elaboração das melhores rotas, permitirá o monitoramento do trabalho e a documentação das suas etapas. Será possível reduzir os custos de intimação, o tempo para a entrega do serviço, além de aumentar a segurança de todo o processo.
 
@@ -39,9 +39,6 @@ Notfy - é uma aplicação web voltada para a otimização do processo de notifi
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
 
-# Código
-
-<li><a href="src/README.md"> Código Fonte</a></li>
 
 # Apresentação
 
