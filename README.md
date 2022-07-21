@@ -45,3 +45,8 @@ Notfy - é uma aplicação web voltada para a otimização do processo de notifi
 Telas apresentadas no 1º Semestre 2021
 
 <img width="3033" alt="Notfy" src="https://user-images.githubusercontent.com/81052476/180310998-094b7421-2dfc-4a60-9caf-2b1e2bc86821.png">
+
+Telas apresentadas no 2º Semestre 2021
+
+![Untitled](https://user-images.githubusercontent.com/81052476/180311345-e8e8f9da-9e0d-4371-86cd-1af33e9f58a6.png)
+
